@@ -31,13 +31,13 @@ Fellowships and Awards
 
 Conferences
 ======
-* International Workshop (Poster Contributiion) :”Predicting Transitions in Complex Systems (MPI-Dresden), April 2018.
-* Summer School (Poster Contributiion): ”VII GEFENOL Summer School on Statistical Physics of Complex Systems“ (IFISC-Palma
+* International Workshop (Poster Contribution) :”Predicting Transitions in Complex Systems (MPI-Dresden), April 2018.
+* Summer School (Poster Contribution): ”VII GEFENOL Summer School on Statistical Physics of Complex Systems“ (IFISC-Palma
 de Mallorca), June 2017.
-* International Conference (Poster Contributiion): ”Venice meeting on fluctuations in small complex systems 3“ (Venice), October
+* International Conference (Poster Contribution): ”Venice meeting on fluctuations in small complex systems 3“ (Venice), October
 2016.
-* International Conference (Poster Contributiion): ”2016 Conference on Complex Systems“ (Amsterdam), September 2016.
-* International Conference (Poster Contributiion): ”STATPHYS26” (Lyon), July 2016.
+* International Conference (Poster Contribution): ”2016 Conference on Complex Systems“ (Amsterdam), September 2016.
+* International Conference (Poster Contribution): ”STATPHYS26” (Lyon), July 2016.
 
 
 Research experience
