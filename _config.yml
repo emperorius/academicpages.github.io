@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://kocillari.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kocillari/kocillari.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ author:
   name             : "Loren Koçillari"
   avatar           : "loren.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Department of Physics and Astronomy, Padova, Italy"
+  location         : "Department of Physics,Padova,Italy"
   employer         :
   googlescholar    : "https://scholar.google.it/citations?user=KAdoA4sAAAAJ&hl=en"
   email            :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/lorenkocillari/" 
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
